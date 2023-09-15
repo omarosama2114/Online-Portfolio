@@ -143,6 +143,21 @@ section {
     width: 225px;
     margin-left: 50px;
     margin-bottom: 15px;
+    border-radius: 112.5px;
+}
+
+.quote {
+    margin-top: 20px;
+    font-style: italic;
+    font-size: 18px;
+    text-align: center;
+    color: #888;
+  }
+
+#welcome {
+    font-size: 1.5em;
+    font-weight: 500;
+    line-height: 1.75em;
 }
 
 .projects .title{
@@ -232,6 +247,8 @@ section {
    padding-right: 35px;
    text-decoration: none;
 }
+
+
 
 @media (max-width:1023px) {
     header{
