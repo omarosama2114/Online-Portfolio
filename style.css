@@ -348,6 +348,9 @@ ul {
 }
 
 @media (max-width:300px) {
+    *{
+        width: 100%;
+    }
     body{
         font-size: 9px;
     }
